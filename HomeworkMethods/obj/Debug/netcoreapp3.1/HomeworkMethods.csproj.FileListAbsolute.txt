@@ -1,0 +1,13 @@
+D:\repo\HomeworkMethods\HomeworkMethods\bin\Debug\netcoreapp3.1\HomeworkMethods.exe
+D:\repo\HomeworkMethods\HomeworkMethods\bin\Debug\netcoreapp3.1\HomeworkMethods.deps.json
+D:\repo\HomeworkMethods\HomeworkMethods\bin\Debug\netcoreapp3.1\HomeworkMethods.runtimeconfig.json
+D:\repo\HomeworkMethods\HomeworkMethods\bin\Debug\netcoreapp3.1\HomeworkMethods.runtimeconfig.dev.json
+D:\repo\HomeworkMethods\HomeworkMethods\bin\Debug\netcoreapp3.1\HomeworkMethods.dll
+D:\repo\HomeworkMethods\HomeworkMethods\bin\Debug\netcoreapp3.1\HomeworkMethods.pdb
+D:\repo\HomeworkMethods\HomeworkMethods\obj\Debug\netcoreapp3.1\HomeworkMethods.csprojAssemblyReference.cache
+D:\repo\HomeworkMethods\HomeworkMethods\obj\Debug\netcoreapp3.1\HomeworkMethods.AssemblyInfoInputs.cache
+D:\repo\HomeworkMethods\HomeworkMethods\obj\Debug\netcoreapp3.1\HomeworkMethods.AssemblyInfo.cs
+D:\repo\HomeworkMethods\HomeworkMethods\obj\Debug\netcoreapp3.1\HomeworkMethods.csproj.CoreCompileInputs.cache
+D:\repo\HomeworkMethods\HomeworkMethods\obj\Debug\netcoreapp3.1\HomeworkMethods.dll
+D:\repo\HomeworkMethods\HomeworkMethods\obj\Debug\netcoreapp3.1\HomeworkMethods.pdb
+D:\repo\HomeworkMethods\HomeworkMethods\obj\Debug\netcoreapp3.1\HomeworkMethods.genruntimeconfig.cache
